@@ -2,6 +2,7 @@ import unittest
 from statistics import Statistics
 from player import Player
 from sortby import SortBy
+from player_reader import PlayerReader
 
 class PlayerReaderStub:
     def get_players(self):
